@@ -1,0 +1,43 @@
+
+
+h1, h2, h3, h4, h5{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    background-color:mediumaquamarine;
+    padding: 0px;
+    margin: 0px;
+    
+}
+nav{
+    background-color: brown;
+    padding: 0px;
+    margin: 0px;
+}
+section{
+    background-color: yellow;
+    padding: 0px;
+    margin: 0px;
+}
+article{
+    background-color: orange;
+    padding: 0px;
+    margin: 0px;
+}
+footer{
+    background-color: lightskyblue;
+    padding: 0px;
+    margin: 0px;
+}
+aside{
+    background-color: gainsboro;
+}
+
+div{
+    width: 100%;
+    display: flex;
+    flex-direction:row;
+    
+}
+
